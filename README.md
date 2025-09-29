@@ -11,7 +11,7 @@ i am Dhiren or you could call me Dhir or brah
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,py,git,github,vscode,laragon,laravel,tensorflow,tailwind,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,py,git,github,vscode,laravel,tensorflow,tailwind,vercel" />
 </p>
 
 ---
