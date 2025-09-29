@@ -1,9 +1,6 @@
-## Hi there 👋
+Hi there 👋
 
-brah4729/brah4729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+i am Dhiren or you could call me Dhir or brah 
 - 🔭 I’m currently working on a web 
 - 🌱 I’m currently learning html,css,php,laravel/blade,tailwind,python,tensorflow
 - 🤔 I’m looking for help with python logic and laravel
@@ -14,7 +11,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,py,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,py,git,github,vscode,laragon,laravel,tensorflow,tailwind,vercel" />
 </p>
 
 ---
