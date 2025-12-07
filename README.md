@@ -6,7 +6,6 @@ i am Dhiren or you could call me Dhir or brah
 - 🤔 I’m looking for help with py torch and laravel
 - 📫 How to reach me: you could dm me on discord or email me
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: i love trying out new language things and then struggle lol 😂
   ---
 
 ## 🛠️ Languages & Tools
