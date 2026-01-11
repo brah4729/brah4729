@@ -11,7 +11,7 @@ i am Dhiren or you could call me Dhir or brah
 ## 🛠️ Languages & Tools
 <p align="center">
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,git,github,vscode,pycharm,laravel,tensorflow,tailwind,vercel,pytorch,windows,fedora,powershell&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,git,github,vscode,pycharm,laravel,tensorflow,tailwind,vercel,pytorch,windows,fedora,powershell,bash,Claude,flask&theme=dark)
 </p>
 
 
