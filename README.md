@@ -1,9 +1,8 @@
 Hi there 👋
 
 i am Dhiren or you could call me Dhir or brah 
-- 🔭 I’m currently working on a web 
-- 🌱 I’m currently learning html,css,php,laravel/blade,tailwind,python,py torch
-- 🤔 I’m looking for help with py torch and laravel
+- a developer that focused in ai/ml and backend development
+- current interst : operating system
 - 📫 How to reach me: you could dm me on discord or email me
 - 😄 Pronouns: He/him
   ---
