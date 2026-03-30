@@ -9,7 +9,7 @@ i am Dhiren or you could call me Dhir or brah
 
 ## 🛠️ Languages & Tools
 
-<div align="center">
+<div align="justify">
   
  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,git,github,laravel,tensorflow,pytorch,powershell,bash,flask,nixos&theme=dark)
 </div>
