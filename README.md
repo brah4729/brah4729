@@ -18,6 +18,6 @@ i am Dhiren or you could call me Dhir or brah
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brah4729&layout=donut&v=1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brah4729&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-ivory-three-76.vercel.app/api?username=brah4729&layout=donut&v=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-ivory-three-76.vercel.app/api?username=brah4729&show_icons=true&theme=tokyonight)
 </div>
