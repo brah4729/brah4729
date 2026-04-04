@@ -19,5 +19,5 @@ i am Dhiren or you could call me Dhir or brah
 <div align="justfity">
   
 [![Top Langs](https://github-readme-stats-ivory-three-76.vercel.app/api?username=brah4729&layout=donut&v=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats-ivory-three-76.vercel.app/api?username=brah4729&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-ivory-three-76.vercel.app/top-langs/api?username=brah4729&show_icons=true&theme=tokyonight)
 </div>
