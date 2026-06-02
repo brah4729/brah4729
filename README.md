@@ -12,7 +12,7 @@ i am Dhiren or you could call me Dhir or brah
 
 <div align="center">
   
- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,git,github,laravel,tensorflow,pytorch,powershell,bash,flask,nixos&theme=dark)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,git,github,laravel,tensorflow,pytorch,powershell,bash,flask,nixos,docker,flask,keras&theme=dark)
 </div>
 
 ---
