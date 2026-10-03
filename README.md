@@ -17,10 +17,14 @@ i am Dhiren or you could call me Dhir or brah
 
 ---
 
-<div align="justfity">
+
+
+<div align="center">
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brah4729&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brah4729&layout=compact&langs_count=8&theme=algolia" />
 </p>
-
+</div>
+<div align="center">
+  <a href="https://tokscale.ai/u/brah4729"><img alt="Tokscale Stats for @brah4729" src="https://tokscale.ai/api/embed/brah4729/svg?color=blue&tokens=compact&cost=full" /></a>
 </div>
